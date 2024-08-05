@@ -1,23 +1,23 @@
-<h1 align="center"> 医疗管理系统 | Dorian </h1>
+<h1 align="center"> 医疗管理系统 | 算个文科生吧 </h1>
 
 <p align="center">
- 	<a href="https://github.com/Dorian1015/MedicalSystem">
-		<img src="https://img.shields.io/github/issues/Dorian1015/MedicalSystem_uniapp"
+ 	<a href="https://github.com/lijinghai/MedicalSystem">
+		<img src="https://img.shields.io/github/issues/lijinghai/MedicalSystem_uniapp"
 			 alt="Version">
 	</a>
- 	<a href="https://github.com/Dorian1015/MedicalSystem">
-		<img src="https://img.shields.io/github/forks/Dorian1015/MedicalSystem_uniapp"
+ 	<a href="https://github.com/lijinghai/MedicalSystem">
+		<img src="https://img.shields.io/github/forks/lijinghai/MedicalSystem_uniapp"
 			 alt="Status">
 	</a>
-    <a href="https://github.com/Dorian1015/MedicalSystem">
-		<img src="https://img.shields.io/github/stars/Dorian1015/MedicalSystem_uniapp"
+    <a href="https://github.com/lijinghai/MedicalSystem">
+		<img src="https://img.shields.io/github/stars/lijinghai/MedicalSystem_uniapp"
 			 alt="Status">
 	</a>
 </p>
 
 <p align="center">
-     <a href="https://github.com/Dorian1015/MedicalSystem_uniapp">
-		<img src="https://img.shields.io/badge/Dorian-%E6%B5%B7-blue"
+     <a href="https://github.com/lijinghai/MedicalSystem_uniapp">
+		<img src="https://img.shields.io/badge/lijinghai-%E6%B5%B7-blue"
 			 alt="Status">
 	</a>
 </p>
